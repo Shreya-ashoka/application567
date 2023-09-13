@@ -101,5 +101,4 @@ Distance of node3=30
 Path=3<-0
 Distance of node4=60
 Path=4<-2<-3<-0
-Time Complexity
-The program contains two nested loops each of which has a complexity of O(n). n is the number of vertices. So the complexity of the algorithm is O(n2).
+Time Complexity:O(E log V)
